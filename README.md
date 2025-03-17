@@ -28,9 +28,12 @@ Una aplicación web simple para organizar sorteos de "Amigo Secreto". Agrega nom
 
 ## 📦 Instalación
 
-No se requiere instalación para usar esta aplicación, ya que es completamente front-end. Solo necesitas un navegador web.
+No se requiere instalación para usar esta aplicación, ya que es completamente front-end. Solo necesitas un navegador web y visitar el siguiente enlace:
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/arnoldevs/amigo-secreto.git
-   ```
+https://arnoldevs.github.io/amigo-secreto/
+
+O si deseas modificar el código y mejorarlo puedes clonar el repositorio:
+
+```bash
+git clone https://github.com/arnoldevs/amigo-secreto.git
+```
